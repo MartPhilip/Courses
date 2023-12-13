@@ -394,28 +394,8 @@ The main factor of DIRECT mortality measured
 
 ## Sub-lethal effects
 
-:::: {.columns}
-::: {.column width="50%"}
+![](images/image53.png)
 
-![](images/images32.webp)
-:::
-
-
-::: {.column width="50%"}
-:::{.incremental}
-
- - Reduction of fecundity
- 
- - Reduction of foraging
- 
- - Increase of oxydative stress 
- 
- - Global decrease of the population size 
- 
-:::
-:::
-
-::::
 
 ## Indirect positive effects
 :::: {.columns}
