@@ -1,0 +1,600 @@
+---
+title: "Purrilous Love: Cats, Biodiversity, and the Art of Feline Diplomacy"
+author:
+  - name: "Martin Philippe-Lesaffre"
+    orcid: "0000-0002-1985-8758"
+    affiliations: "Université Paris-Saclay, CNRS, AgroParisTech, Ecologie Systématique Evolution"
+date: "2023-12-13"
+date-format: long
+format:
+  revealjs:
+    theme: night
+    transition: slide
+    background-transition: fade
+    scrollable: true
+    chalkboard: true
+    auto-play-media: true
+slide-number: true
+self-contained: false
+smaller: false
+---
+
+# What do you know about the cat vs. biodiversity conflict? 
+
+# Some fresh news
+
+## On google
+![](images/image1.png)
+
+![](images/image2.png)
+
+![](images/image3.png)
+
+
+## On CHATGPT
+:::: {.columns}
+::: {.column width="50%"}
+![](images/image4.png)
+:::
+
+::: {.column width="50%"}
+::: {style="font-size: 80%;"}
+:::{.incremental}
+
+- A natural predator ?
+
+- Consumption of birds, mammals, insects...
+
+- Effect on populations ? Direct ? Indirect ?
+
+- Co-invasions ?
+
+- Diseases ?
+
+:::
+:::
+:::
+:::: 
+
+# Who is *Felis catus*
+
+## A felid
+
+![](images/image5.jpeg)
+
+::: {style="font-size: 50%;"}
+<https://www.science.org/doi/10.1126/science.1122277>
+:::
+## A *Felis* subspecies
+
+:::: {.columns}
+::: {.column width="50%"}
+![](images/image6.png)
+:::
+
+::: {.column width="50%"}
+![](images/image7.png)
+:::
+::::
+::: {style="font-size: 50%;"}
+<https://www.science.org/doi/10.1126/science.1139518>
+:::
+## European colonisation
+
+:::: {.columns}
+::: {.column width="50%"}
+![](images/image10.png)
+:::
+
+::: {.column width="50%"}
+![](images/image11.png)
+:::
+::::
+::: {style="font-size: 50%;"}
+<https://www.nature.com/articles/s41559-017-0139>
+::: 
+
+## Why did we "domesticate" cat ?
+
+::: {style="font-size: 50%;"}
+
+:::{.incremental}
+
+- Today's domesticates, initially farm animals, contrast with the unique domestication path of cats.
+- Cats formed a commensal relationship with humans in the Fertile Crescent, attracted by early farmers' settlements combating rodent pests.
+:::
+
+
+![](images/image13.png)
+<https://www.pnas.org/doi/epdf/10.1073/pnas.0901586106>
+
+![](images/image12.png)
+
+:::{.incremental}
+
+Late Neolithic NE cats exhibited distinct stable isotope compositions and dietary patterns compared to contemporary humans, dogs, and Roman Period cats in farmland.
+
+:::
+
+
+<https://www.pnas.org/doi/epdf/10.1073/pnas.1918884117>
+
+:::
+
+
+
+## Recent domestication ?
+
+![](images/image9.png)
+
+
+::: {style="font-size: 50%;"}
+<https://www.nature.com/articles/s41559-017-0139>
+::: 
+
+## Brief conclusion
+
+:::{.incremental}
+
+- The domestication history of *Felis catus* is intricate and not fully understood today.
+- There is a consensus about a commensal history.
+- The domestic cat's characteristics are not very different from its wild ancestor.
+:::
+
+![](images/cat-driving.gif)
+
+# The cat populationS
+## A common mistake
+
+
+:::: {.columns}
+::: {.column width="50%"}
+![](images/image14.png)
+:::
+::: {.column width="50%"}
+![](images/image15.png)
+
+:::
+::::
+
+## The different populations
+
+![](images/image16.png)
+
+::: {style="font-size: 50%;"}
+<https://www.sciencedirect.com/science/article/pii/S0169534720300100>
+::: 
+
+# Domestic cat in invasion ecology
+
+## A native range ?
+
+
+::: {style="font-size: 50%;"}
+
+:::: {.columns}
+::: {.column width="50%"}
+![](images/image17.png)
+*Felis lybica*
+
+![](images/image18.png)
+*Felis sylvestris*
+
+:::
+::: {.column width="50%"}
+
+![](images/image19.png)
+
+*Felis margarita*
+
+![](images/image20.png)
+*Felis chaus*
+
+:::
+::::
+::: 
+
+## Negative impacts ?
+
+![](images/image21.png)
+
+
+::: {style="font-size: 50%;"}
+<https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.13745>
+::: 
+
+
+# Where *Felis catus* is invasive ?
+
+## Some clues
+
+![](images/image17.png){.absolute top=200 left=0 width="350" height="250"}
+
+![](images/image22.png){.absolute top=50 right=50 width="450" height="300"}
+
+![](images/image21.png){.absolute bottom=0 right=130 width="500" height="300"}
+
+# Domestic cat as an invasive species ?
+
+## The big picture
+
+![](images/image23.jpeg)
+
+
+::: {style="font-size: 70%;"}
+ 63 extinctions (40 bird, 21 mammal, and 2 reptile species , 26% of all extinctions induced by mammal predators)
+:::
+
+
+![](images/image24.jpeg)
+
+
+::: {style="font-size: 70%;"}
+0.25 (secondary cause of species decline), 0.75 (primary cause of species decline), or 1.0 (species extinction attributed to the predator)
+:::
+
+
+::: {style="font-size: 50%;"}
+<https://www.pnas.org/doi/full/10.1073/pnas.1602480113>
+::: 
+
+## On islands
+
+
+
+::: {style="font-size: 50%;"}
+
+:::: {.columns}
+::: {.column width="50%"}
+![](images/image25.jpeg)
+
+<https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2015.0623>
+
+::: 
+
+::: {.column width="50%"}
+![](images/image26.png)
+
+<https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2486.2011.02464.x>
+
+
+::: 
+
+
+::::
+
+::: 
+
+## In Australia
+
+![](images/image27.png)
+
+## In Australia
+
+:::: {.columns}
+::: {.column width="50%"}
+
+![](images/figure28.webp)
+
+
+::: {style="font-size: 70%;"}
+Domestic cat population can cause local extinctions in Australia
+:::
+::: {style="font-size: 50%;"}
+<https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.12522>
+::: 
+:::
+
+::: {.column width="50%"}
+![](images/image29.jpeg)
+
+
+::: {style="font-size: 70%;"}
+Extremely large distribution of domestic populations
+:::
+
+
+::: {style="font-size: 50%;"}
+<https://www.sciencedirect.com/science/article/abs/pii/S0006320716309223>
+::: 
+
+:::
+
+::::
+
+## Elsewhere
+
+
+:::: {.columns}
+::: {.column width="50%"}
+
+![](images/image30.webp)
+
+
+::: {style="font-size: 70%;"}
+Focus on native species mortality
+:::
+::: {style="font-size: 50%;"}
+<https://www.nature.com/articles/ncomms2380>
+::: 
+:::
+
+::: {.column width="50%"}
+![](images/image31.gif)
+
+
+::: {style="font-size: 70%;"}
+The main factor of DIRECT mortality measured
+:::
+
+
+::: {style="font-size: 50%;"}
+<https://www.annualreviews.org/doi/full/10.1146/annurev-ecolsys-112414-054133>
+::: 
+
+:::
+
+::::
+
+# Focusing on non-Australian continents
+
+## Cats vs Biodiversity ?
+
+:::: {.columns}
+::: {.column width="50%"}
+
+![](images/sad-sad-cat.gif)
+:::
+
+
+::: {.column width="50%"}
+:::{.incremental}
+- Effect on prey populations ?
+
+
+
+- What kind of prey species ?
+
+
+- What kind of prey individuals ?
+
+
+
+- What type of cat populations ?
+:::
+:::
+
+::::
+
+# Some key concepts
+
+## Compensatory and additive effects
+
+:::: {.columns}
+::: {.column width="50%"}
+
+![](images/image33.png)
+:::
+
+
+::: {.column width="50%"}
+:::{.incremental}
+ 
+ - Depredation of non reproductive adults
+ 
+ - Equilibrium between depredation and fecundity
+ 
+ - ...
+ 
+ 
+:::
+:::
+
+::::
+
+## Sub-lethal effects
+
+:::: {.columns}
+::: {.column width="50%"}
+
+![](images/images32.webp)
+:::
+
+
+::: {.column width="50%"}
+:::{.incremental}
+
+ - Reduction of fecundity
+ 
+ - Reduction of foraging
+ 
+ - Increase of oxydative stress 
+ 
+ - Global decrease of the population size 
+ 
+:::
+:::
+
+::::
+
+## Indirect positive effects
+:::: {.columns}
+::: {.column width="50%"}
+![](images/image37.png)
+
+
+:::
+
+::: {.column width="50%"}
+:::{.incremental}
+
+- Integration of the effect of domestic in the entire trophic web
+
+- Considering the indirect positive effect of domestic cats
+
+:::
+:::
+
+::::
+
+
+## Predator recognition
+
+:::: {.columns}
+::: {.column width="50%"}
+
+![](images/image35.jpg)
+
+:::
+
+::: {.column width="50%"}
+:::{.incremental}
+
+- Small mammals are able to recognize predators 
+
+- No differences between inavsive and native predators
+
+- Other taxa ? Mortality ?
+
+
+
+:::
+:::
+
+::::
+
+# At individual level
+## Prey characteristics 
+![](images/image42.png)
+
+::: {style="font-size: 50%;"}
+<https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1474-919X.2008.00836.x>
+::: 
+
+## Prey behavior
+
+![](images/image38.jpeg){width="500" height="1000"}
+
+
+
+::: {style="font-size: 50%;"}
+<https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.12025>
+::: 
+
+## Prey native vs invasive
+
+![](images/image43.jpeg)
+
+::: {style="font-size: 50%;"}
+<https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.12025>
+::: 
+
+
+# At population level
+## In Great Britain
+
+![](images/image41.png)
+
+::: {style="font-size: 50%;"}
+<https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1472-4642.2007.00444.x>
+::: 
+
+
+## In Canada
+
+![](images/image39.webp)
+
+::: {style="font-size: 50%;"}
+<https://www.mdpi.com/2073-445X/10/5/507>
+::: 
+
+
+# At species level
+
+## Observation
+
+![](images/image44.png)
+![](images/image43.png)
+
+::: {style="font-size: 50%;"}
+<https://www.frontiersin.org/articles/10.3389/fevo.2019.00477/full>
+::: 
+
+
+## Observation/Prediction
+
+![](images/image45.png)
+
+## Prediction
+
+![](images/image40.png){width="800" height="800"}
+
+## Conclusion
+
+
+::: {style="font-size: 70%;"}
+:::{.incremental}
+
+- No clear relationships between prey biomass and domestic cat abundance
+
+- No evidence of any population declines of prey because of domestic cat depredation in continental context
+
+- Evidences of possible compensatory effect
+
+- Mainly non threatened species depredated by domestic cats
+
+- Extremely context dependent, for example effect of the forest ! 
+
+- BUT, sub-lethal effect exists ...
+
+- BUT, no evidence for the moment but existing studies still lacking of robustness !
+
+:::
+::: 
+
+
+# Management solution
+
+## Responsibility of owners
+![](images/image46.png){width="1000" height="1000"}
+
+::: {style="font-size: 50%;"}
+<https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0151962&type=printable>
+::: 
+
+## Diverging visions
+
+![](images/image47.png){ top=200 left=0 width="500" height="300"}
+
+![](images/image48.png){ top=50 right=50 width="500" height="300"}
+
+![](images/image49.png){ bottom=0 right=50 width="500" height="300"}
+
+
+
+::: {style="font-size: 50%;"}
+<https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pan3.6>
+::: 
+
+
+## What can be done ?
+
+![](images/image50.png)
+
+## What can be done ?
+
+![](images/image51.png)
+
+::: {style="font-size: 50%;"}
+<https://onlinelibrary.wiley.com/doi/pdf/10.1111/mam.12230>
+::: 
+
+# Rethinking relationships between human and non-human individuals
+
+## The commensalism theory in ecology
+
+![](images/image52.png)
+
+::: {style="font-size: 50%;"}
+<https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(16)30044-1>
+::: 
